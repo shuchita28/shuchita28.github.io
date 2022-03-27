@@ -20,7 +20,7 @@ const exp = [
   },
   {
     title: "Web designing and analytics Intern",
-    cardImage: "assets/images/experience-page/tmi.png",
+    cardImage: "assets/images/experience-page/tmi.jpeg",
     place: "TechMerch Innovations",
     time: "(August 2017 - November 2017)",
     desp: "<li>Analyzed SEO traffic on websites</li>",

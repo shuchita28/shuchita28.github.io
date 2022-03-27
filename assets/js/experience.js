@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Teaching Assistant",
+    cardImage: "assets/images/experience-page/Northeastern University.png",
+    place: "Northeastern University",
+    time: "(January, 2022 - present)",
+    desp: "<li>Worked as the Teaching Assistant for Prof. Clachar's DS3000 Foundations of Data Science course.</li> <li>Assisted in teaching, grading, answering students' doubts and conducting weekly lab recitations.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Quality Analyst",
+    cardImage: "assets/images/experience-page/tcs.png",
+    place: "TATA Consultancy Services | Zipcar",
+    time: "(September 2018 - August 2021)",
+    desp: "<li>Worked as a Quality Analyst at TCS for Zipcar client</li><li>Worked on several projects for the client, including migration analysis and Mobile app usage analytics</li><li>Improved the accuracy of manual analysis by automating the process using Python script for data analysis and increased efficiency by 65%</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Web designing and analytics Intern",
+    cardImage: "assets/images/experience-page/tmi.png",
+    place: "TechMerch Innovations",
+    time: "(August 2017 - November 2017)",
+    desp: "<li>Analyzed SEO traffic on websites</li>",
   },
 ];
 
@@ -62,28 +62,16 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Data Science Hub @ Northeastern University",
+    cardImage: "assets/images/experience-page/dsh.jpeg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Volunteer for organizing and scheduling various Data science workshops and open mics.",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Social Wing @ RAIT",
+    cardImage: "assets/images/experience-page/sw.jpeg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
-  },
-  {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Volunteered and oraganized social events such as marathons, teaching seminars and mural paintings which contributed to social welfare.",
   },
 ];
 

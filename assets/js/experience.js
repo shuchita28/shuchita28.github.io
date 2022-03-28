@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Northeastern University.png",
     place: "Northeastern University",
     time: "(January, 2022 - present)",
-    desp: "<li>Worked as the Teaching Assistant for Prof. Clachar's DS3000 Foundations of Data Science course.</li> <li>Assisted in teaching, grading, answering students' doubts and conducting weekly lab recitations.</li>",
+    desp: "<ul><li>Worked as the Teaching Assistant for Prof. Clachar's DS3000 Foundations of Data Science course.</li> <li>Assisted in teaching, grading, answering students' doubts and conducting weekly lab recitations.</li></ul>",
   },
   {
     title: "Quality Analyst",
@@ -63,7 +63,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Data Science Hub @ Northeastern University",
-    cardImage: "assets/images/experience-page/dsh.jpeg",
+    cardImage: "assets/images/experience-page/dsh.jpg",
     description:
       "Volunteer for organizing and scheduling various Data science workshops and open mics.",
   },

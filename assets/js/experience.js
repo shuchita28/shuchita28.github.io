@@ -16,14 +16,14 @@ const exp = [
     cardImage: "assets/images/experience-page/tcs.png",
     place: "TATA Consultancy Services | Zipcar",
     time: "(September 2018 - August 2021)",
-    desp: "<li>Worked as a Quality Analyst at TCS for Zipcar client</li><li>Worked on several projects for the client, including migration analysis and Mobile app usage analytics</li><li>Improved the accuracy of manual analysis by automating the process using Python script for data analysis and increased efficiency by 65%</li>",
+    desp: "<ul><li>Worked as a Quality Analyst at TCS for Zipcar client</li><li>Worked on several projects for the client, including migration analysis and Mobile app usage analytics</li><li>Improved the accuracy of manual analysis by automating the process using Python script for data analysis and increased efficiency by 65%</li></ul>",
   },
   {
     title: "Web designing and analytics Intern",
     cardImage: "assets/images/experience-page/tmi.jpeg",
     place: "TechMerch Innovations",
     time: "(August 2017 - November 2017)",
-    desp: "<li>Analyzed SEO traffic on websites</li>",
+    desp: "<ul><li>Analyzed SEO traffic on websites</li></ul>",
   },
 ];
 

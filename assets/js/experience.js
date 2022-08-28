@@ -5,18 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Real World Data Analytics [Co-op]",
+    cardImage: "assets/images/experience-page/Northeastern University.png",
+    place: "Vertex Pharmaceuticals",
+    time: "(July, 2022 - present)",
+    desp: "<ul><li>Analyze and normalize Redshift DW data in SAS SQL to create visualizations and statistic models</li><li>Built interactive therapeutic-area specific dashboards using Tableau 2020.x to help researchers study the EHR and claims data</li><li>Created dynamic reporting tool using SAS SQL, Tableau to provide technical solutions to researchers and stakeholders</li><li>Compiled correlative Tableau dashboards to perform easy storytelling with Quick filters for on demand information</li><li>Developed statistical models to analyze large real-world datasets (~50 TB) with complex relationships between variables</li><li>Build scalable ETL data pipelines working with the DTE department to streamline the data to source out to researchers</li></ul>",
+  },
+  {
     title: "Teaching Assistant",
     cardImage: "assets/images/experience-page/Northeastern University.png",
     place: "Northeastern University",
-    time: "(January, 2022 - present)",
+    time: "(January, 2022 - June, 2022)",
     desp: "<ul><li>Worked as the Teaching Assistant for Prof. Clachar's DS3000 Foundations of Data Science course.</li> <li>Assisted in teaching, grading, answering students' doubts and conducting weekly lab recitations.</li></ul>",
   },
   {
-    title: "Quality Analyst",
+    title: "Data Analyst",
     cardImage: "assets/images/experience-page/tcs.png",
     place: "TATA Consultancy Services | Zipcar",
     time: "(September 2018 - August 2021)",
-    desp: "<ul><li>Worked as a Quality Analyst at TCS for Zipcar client</li><li>Worked on several projects for the client, including migration analysis and Mobile app usage analytics</li><li>Improved the accuracy of manual analysis by automating the process using Python script for data analysis and increased efficiency by 65%</li></ul>",
+    desp: "<ul><li>Worked as a Data Analyst at TCS for Zipcar client</li><li>Worked on several projects for the client, including migration analysis and Mobile app usage analytics</li><li>Improved the accuracy of manual analysis by automating the process using Python script for data analysis and increased efficiency by 65%</li></ul>",
   },
   {
     title: "Web designing and analytics Intern",

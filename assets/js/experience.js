@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Real World Data Analytics [Co-op]",
-    cardImage: "assets/images/experience-page/Northeastern University.png",
+    cardImage: "assets/images/experience-page/Vertex.png",
     place: "Vertex Pharmaceuticals",
     time: "(July, 2022 - present)",
     desp: "<ul><li>Analyze and normalize Redshift DW data in SAS SQL to create visualizations and statistic models</li><li>Built interactive therapeutic-area specific dashboards using Tableau 2020.x to help researchers study the EHR and claims data</li><li>Created dynamic reporting tool using SAS SQL, Tableau to provide technical solutions to researchers and stakeholders</li><li>Compiled correlative Tableau dashboards to perform easy storytelling with Quick filters for on demand information</li><li>Developed statistical models to analyze large real-world datasets (~50 TB) with complex relationships between variables</li><li>Build scalable ETL data pipelines working with the DTE department to streamline the data to source out to researchers</li></ul>",
